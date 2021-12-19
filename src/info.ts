@@ -243,44 +243,34 @@ const info: { en: langInfo; no: langInfo } = {
   no: {
     lang: "no",
     profile: {
-      name: "Johan August Østbye",
-      role: "Utvikler",
+      name: "Jonas Aasland",
+      role: "Student - teknologiledelse",
     },
     info: {
       about: {
         title: "Profil",
-        text: "Jeg er en 23 år gammel student fra Nesodden. Jeg går nå 4. året på NTNU master i Informatikk med retning databaser og søk. Jeg er en veldig sosial person og liker godt å samarbeide på prosjekter.",
+        text: "Jeg er en 22 år gammel student fra Sandefjord. Jeg går nå 4. året på NTNU Handelshøyskolen i Trondheim, og suderer 1. året på master i Ledelse av teknologi. Våren 2021 fullførte jeg en bachelorgrad i Fornybar Energi, et ingeniørstudie på NTNU Gløshaugen. Jeg er en veldig sosial person, og har gjennom utdanning, verv og jobb opparbeidet god erfaring med å arbeide i team.",
       },
       contact: {
         title: "Detaljer",
-        adress: ["Nyborgbakken 8", "1458, Fjellstrand"],
-        phone: "+47 913 01 594",
+        adress: ["Dalsaunevegen 3C", "7037, Trondheim"],
+        phone: "+47 413 41 902",
         links: [
           {
             Icon: MdMailOutline,
-            link: "mailto:johan.august@outlook.com",
-            text: "Johan.August@outlook.com",
+            link: "mailto:jonas.aasland99@gmail.com",
+            text: "jonas.aasland99@gmail.com",
           },
           {
             Icon: BsLinkedin,
-            link: "https://www.linkedin.com/in/johan-august-%C3%B8stbye-6b0669192/",
-            text: "Johan August Østbye",
-          },
-          {
-            Icon: BsGithub,
-            link: "https://github.com/JohanAOstbye",
-            text: "JohanAOstbye",
-          },
-          {
-            Icon: BsGlobe,
-            link: "https://johanaostbye.github.io",
-            text: "johanaostbye.github.io",
+            link: "https://www.linkedin.com/in/jonas-aasland-b97b31187/",
+            text: "Jonas Aasland",
           },
         ],
       },
       skills: [
         {
-          title: "Frontend",
+          title: "Nøkkelkvalifikasjoner",
           techs: [
             SiCss3,
             SiExpo,
@@ -314,38 +304,38 @@ const info: { en: langInfo; no: langInfo } = {
     content: {
       education: [
         {
-          title: "Master i Informatikk",
+          title: "Ledelse av Teknologi",
           location: "Norges teknisk-naturvitenskapelige universitet",
           positions: [
             {
-              timerange: "August 2021 - Nå",
-              description: "Databaser og søk - Masterprogram 2-årig, Trondheim",
+              timerange: "08.2021 - 06.2023",
+              description: "Master innen økonomi- og ledelsesfag - Masterprogram 2-årig, Trondheim",
             },
           ],
         },
         {
-          title: "Bachelor i Informatikk",
+          title: "Bachelor i Fornybar energi",
           location: "Norges teknisk-naturvitenskapelige universitet",
           positions: [
             {
-              timerange: "August 2017 - Juni 2021",
-              description: "Bachelorprogram, 3-årig, Trondheim",
+              timerange: "08.2018 - 06.2021",
+              description: "Bachelor i teknisk-naturvitenskapelige fag, Bachelorprogram 2-årig, Trondheim",
             },
           ],
         },
       ],
       experience: [
         {
-          title: "Arbeids erfaring",
+          title: "Arbeidserfaring",
           Icon: MdWorkOutline,
           locations: [
             {
-              title: "Superinstruktørene AS",
-              location: "Nesodden",
+              title: "Enevo AS",
+              location: "Trondheim",
               positions: [
                 {
-                  timerange: "Juni 2021 - August 2021",
-                  description: "Hovedinstruktør",
+                  timerange: "08.2019",
+                  description: "Salgskonsulent",
                   text: "Satt sammen den faglige delen av et kurs for grunnskoleelever sammen med faglig ansvarlig leder fra Superinstruktørene",
                 },
               ],
