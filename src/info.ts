@@ -336,18 +336,29 @@ const info: { en: langInfo; no: langInfo } = {
                 {
                   timerange: "08.2019",
                   description: "Salgskonsulent",
-                  text: "Satt sammen den faglige delen av et kurs for grunnskoleelever sammen med faglig ansvarlig leder fra Superinstruktørene",
+                  text: "Telefonsalg frem til høsten 2020. Feltsalg etter dette. Jobber med ren provisjonslønn. Har solgt ulike strømavtaler, medlemskap TV-løsninger osv. I dag har jeg spesialert mef mot salg av fiber.",
                 },
               ],
             },
             {
-              title: "Spisskammerset AS",
-              location: "Nesodden, Fagerstrand",
+              title: "Attåtnæring",
+              location: "Trondheim",
               positions: [
                 {
-                  timerange: "2016 - 2020",
-                  description: "Sjåfør, servitør, hjelpekokk",
-                  text: "Levert serveringsmat og utstyr i Oslo og Viken. Om nødvendig hjalp jeg til som servitør eller hjelpekokk. Til daglig var jeg kontaktpunkt for kundene.",
+                  timerange: "12.2018 - 06.2019",
+                  description: "Producr Demonstrator",
+                  text: "Delte ut smaksprøver av Ølsprøtt for markedsføring av nytt produkt.",
+                },
+              ],
+            },
+            {
+              title: "Meny AS",
+              location: "Sandefjord",
+              positions: [
+                {
+                  timerange: "04.2017 - 08.2018",
+                  description: "Butikkmedarbeider",
+                  text: "Jobbet på deltid i kasse og kolonial. ",
                 },
               ],
             },
