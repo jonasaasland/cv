@@ -362,56 +362,6 @@ const info: { en: langInfo; no: langInfo } = {
           ],
         },
       ],
-      projects: [
-        {
-          image: {
-            src: "onlinelogo",
-            alt: "Online logo",
-          },
-          website: {
-            link: "https://faktura.online.ntnu.no/",
-            text: "nettside",
-          },
-          title: "Invoice info",
-          githubLink: "https://github.com/JohanAOstbye/invoiceinfo",
-          text: "En nettside for å hente inn fakturainformasjon fra bedrifter som Online Linjeforening sammarbeider med",
-        },
-        {
-          image: {
-            src: "taco",
-            alt: "Taco picture",
-          },
-          website: {
-            link: "https://tacomanager.vercel.app/",
-            text: "nettside",
-          },
-          title: "Tacomanager",
-          githubLink: "https://github.com/JohanAOstbye/tacomanager",
-          text: "En nettside for å holde styr på hvem som skal være med på tacokveld i kollektivet",
-        },
-        {
-          image: {
-            src: "me",
-            alt: "Me",
-          },
-          website: {
-            link: "https://johanaostbye.github.io/me/",
-            text: "nettside",
-          },
-          title: "Min portofolio",
-          githubLink: "https://github.com/JohanAOstbye/tacomanager",
-          text: "En nettside om meg som person og hva jeg gjør",
-        },
-        {
-          image: {
-            src: "more",
-            alt: "...",
-          },
-          title: "Flere prosjekter",
-          githubLink: "https://github.com/JohanAOstbye",
-          text: "Resten av prosjektene som for eksempel denne cv'en ligger på min github profil",
-        },
-      ],
     },
   },
 }
