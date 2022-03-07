@@ -8,7 +8,7 @@ const Profile = ({ className }) => {
   return (
     <div className={`${className} text-center p-5`}>
       <StaticImage
-        src="../images/meg.jpeg"
+        src="../images/meg.jpg"
         alt="picture of me"
         className="rounded-full h-64 w-64 print:h-44 print:w-44"
       />

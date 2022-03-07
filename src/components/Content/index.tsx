@@ -9,7 +9,6 @@ const Content = ({ className }) => {
     <div className={className}>
       <Education />
       <Experience />
-      <Projects />
     </div>
   )
 }
