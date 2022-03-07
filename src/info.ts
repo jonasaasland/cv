@@ -249,7 +249,7 @@ const info: { en: langInfo; no: langInfo } = {
     info: {
       about: {
         title: "Profil",
-        text: "Jeg er en 22 år gammel student fra Sandefjord. Jeg går nå 4. året på NTNU Handelshøyskolen i Trondheim, og suderer 1. året på master i Ledelse av teknologi. Våren 2021 fullførte jeg en bachelorgrad i Fornybar Energi, et ingeniørstudie på NTNU Gløshaugen. Jeg er en veldig sosial person, og har gjennom utdanning, verv og jobb opparbeidet god erfaring med å arbeide i team.",
+        text: "Jeg er en 23 år gammel student fra Sandefjord. Jeg går nå 4. året på NTNU Handelshøyskolen i Trondheim, og suderer 1. året på master i Ledelse av teknologi. Våren 2021 fullførte jeg en bachelorgrad i Fornybar Energi, et ingeniørstudie på NTNU Gløshaugen. Jeg er en veldig sosial person, og har gjennom utdanning, verv og jobb opparbeidet god erfaring med å arbeide i team.",
       },
       contact: {
         title: "Detaljer",
