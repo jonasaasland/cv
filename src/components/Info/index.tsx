@@ -9,7 +9,6 @@ const Info = ({ className }) => {
     <div className={className}>
       <About />
       <Contact />
-      <Skills />
     </div>
   )
 }

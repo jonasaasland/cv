@@ -267,39 +267,7 @@ const info: { en: langInfo; no: langInfo } = {
             text: "Jonas Aasland",
           },
         ],
-      },
-      skills: [
-        {
-          title: "Nøkkelkvalifikasjoner",
-          techs: [
-            SiCss3,
-            SiExpo,
-            SiGatsby,
-            SiHtml5,
-            SiJava,
-            SiNextdotjs,
-            SiReact,
-            SiTailwindcss,
-            SiTypescript,
-          ],
-        },
-        {
-          title: "Backend / Uten UI",
-          techs: [SiGraphql, SiJava, SiNodedotjs, SiPython],
-        },
-        {
-          title: "Databaser",
-          techs: [SiFirebase, SiMongodb, SiMysql, SiPostgresql],
-        },
-        {
-          title: "Development eviroment",
-          techs: [SiGit, SiKubuntu, SiLinux, FaTerminal, SiVisualstudiocode],
-        },
-        {
-          title: "Andre",
-          techs: [SiAmazonaws, SiAsciidoctor, SiDocker, SiFigma, SiTerraform],
-        },
-      ],
+      }
     },
     content: {
       education: [
